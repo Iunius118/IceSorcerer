@@ -1,0 +1,8 @@
+
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "icesorcerer:items/ice_magic_d_2d",
+		"layer1": "icesorcerer:items/ice_magic_d_2d_overlay"
+	}
+}

@@ -1,0 +1,5 @@
+
+newmtl mat1
+Kd 1.00000 1.00000 1.00000
+map_Kd icesorcerer:items/ice_magic_3d
+

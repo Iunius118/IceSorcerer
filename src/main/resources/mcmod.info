@@ -1,0 +1,16 @@
+[
+{
+  "modid": "icesorcerer",
+  "name": "IceSorcerer",
+  "description": "Adds the ice magic of Melpharian sorcerers.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://twitter.com/Iunius118",
+  "updateUrl": "",
+  "authorList": ["Iunius"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
