@@ -1,6 +1,9 @@
 
-	IceSorcerer
+	IceSorcerer 0.0.1
 
+Requirement
+	Minecraft [1.9]
+	Minecraft Forge [1.9-12.16.1.1887,)
 
 Items (right click to use)
 
